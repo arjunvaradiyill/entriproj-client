@@ -1,0 +1,20 @@
+
+▲ [WARNING] Duplicate key "resolve" in object literal [duplicate-object-key]
+
+    vite.config.js:22:2:
+      22 │   resolve: {
+         ╵   ~~~~~~~
+
+  The original key "resolve" is here:
+
+    vite.config.js:7:2:
+      7 │   resolve: {
+        ╵   ~~~~~~~
+
+Re-optimizing dependencies because lockfile has changed
+
+  VITE v5.4.15  ready in 289 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
